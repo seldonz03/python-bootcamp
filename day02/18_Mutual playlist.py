@@ -14,4 +14,8 @@ friend_playlist = {
 
 print(your_playlist.union(friend_playlist))
 print(your_playlist.intersection(friend_playlist))
+print(your_playlist & friend_playlist)
+print((your_playlist.symmetric_difference(friend_playlist)))
+
+
 # Create a new playlist that combines all the songs
