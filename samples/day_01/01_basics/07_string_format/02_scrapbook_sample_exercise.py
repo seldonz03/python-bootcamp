@@ -8,6 +8,6 @@ user_name = None
 favorite_number = None
 favorite_color = None
 
-# Print the template with the placeholders replaced
+# Print the templates with the placeholders replaced
 
 
